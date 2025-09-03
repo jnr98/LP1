@@ -1,10 +1,16 @@
 <h1 align="center">Linguagem de Programação   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo">
-<img height="30" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
 
-<br clear="both">
 
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif"  />
-</div>
 
-###
+<h3> Tabela de Notas:</h3>
+
+<img src="TesteMesa.png" width="60%" />
+
+---
+<h3> Musica: Don's Cry - Guns N' Roses </h3>
+<a href="https://www.youtube.com/watch?v=zRIbf6JqkNc" target="_blank">
+  <img src="https://img.youtube.com/vi/zRIbf6JqkNc/0.jpg" alt="Assista ao vídeo" width="300">
+</a>
+<h3> Diagrama UML:</h3>
+<img src="UML.png" width="60%" />
+
