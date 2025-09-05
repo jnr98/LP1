@@ -16,21 +16,60 @@
 ```mermaid
 classDiagram
 class Banda{
-  +id: Int
-  +nome: String
-  +nacionalidade: String
+  -id: Int
+  -nome: String
+  -nacionalidade: String
   +nomeBanda(): void
 
 }
 class Musica{
-  +id: Int
-  +nomeMusica: String
-  +duracao: Float
-  +musicaAtual(): void
+  -id: Int
+  -nomeMusica: String
+  -duracao: Float
+  -musicaAtual(): void
 }
 class Album{
-  +id: Int
-  +nome: String
-  +ano: Date
+  -id: Int
+  -nome: String
+  -ano: Date
   +InformarAlbum(): void
 }
+```
+
+<h3> Diagrama UML da imagem Lampedusa: </h3>
+
+```mermaid
+classDiagram
+class Barco{
+  -tamanho: Int
+  -estilo: Booleana
+  -tipo: Booleana
+  +navegar(): void
+
+}
+class Predio{
+  -classificacao: Int
+  -andares: Int
+  -cor: Booleana
+  +Descansar(): void
+}
+
+```
+
+<h3> Diagrama UML da imagem Track brawl: </h3>
+
+```mermaid
+classDiagram
+class Trilho{
+  -extensao: Int
+  -material: String
+  -tipo: Booleana
+  +locomover(): void
+}
+
+```
+
+
+<h3>Video:</h3>
+https://www.youtube.com/shorts/KyugePrPAsE
+</a>
