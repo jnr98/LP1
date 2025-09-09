@@ -35,8 +35,9 @@ class Album{
   +InformarAlbum(): void
 }
 ```
-
+---
 <h3> Diagrama UML da imagem Lampedusa: </h3>
+<img src="https://cdn.culturagenial.com/imagens/lampedusa-cke.jpg?class=article" alt="Assista ao vídeo" width="400">
 
 ```mermaid
 classDiagram
@@ -55,8 +56,9 @@ class Predio{
 }
 
 ```
-
+---
 <h3> Diagrama UML da imagem Track brawl: </h3>
+<img src="https://cdn.culturagenial.com/imagens/track-brawl-cke.jpg?class=article" alt="Assista ao vídeo" width="300">
 
 ```mermaid
 classDiagram
@@ -69,7 +71,7 @@ class Trilho{
 
 ```
 
-
+---
 <h3>Video:</h3>
 https://www.youtube.com/shorts/KyugePrPAsE
 </a>
@@ -84,6 +86,7 @@ class Video{
 }
 
 ```
+---
 <h3>Doodle da minha preferência</h3>
 <h4>ESPN - SUPER BOWL 2020</h4>
  <img src="https://static.wixstatic.com/media/c097a7_e19ae81c05f542388df5f56a2970c17d~mv2.jpg/v1/fill/w_955,h_637,al_c,q_85,enc_avif,quality_auto/ESPN-SuperBowl-Illustra-MauroMartins.jpg" alt="Assista ao vídeo" width="600">
