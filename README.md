@@ -73,3 +73,17 @@ class Trilho{
 <h3>Video:</h3>
 https://www.youtube.com/shorts/KyugePrPAsE
 </a>
+
+```mermaid
+classDiagram
+class Video{
+  -anjo: String
+  -Deus: String
+  -dinossauro: Booleana
+  +meteoro(): void
+}
+
+```
+<h3>Doodle da minha preferência</h3>
+<h4>ESPN - SUPER BOWL 2020</h4>
+ <img src="https://static.wixstatic.com/media/c097a7_e19ae81c05f542388df5f56a2970c17d~mv2.jpg/v1/fill/w_955,h_637,al_c,q_85,enc_avif,quality_auto/ESPN-SuperBowl-Illustra-MauroMartins.jpg" alt="Assista ao vídeo" width="600">
